@@ -1,0 +1,100 @@
+ul li {
+  display:inline-block;
+  float:right;
+  margin-right:4%;
+  margin-top:1%;
+  width:10%;
+  color:#ffffff;
+
+}
+  img {
+  width:40%;
+  display: inline-block;
+}
+#mine {
+  width:30%;
+  margin-top:5%;
+  margin-left:38%;
+  border-radius:60%;
+}
+#intro {
+  margin-left:45%;
+  font-size: 150%;
+  color:#ffffff;
+}
+#intro2 {
+  margin-left:44%;
+  font-size: 150%;
+  color:#ffffff;
+}
+#div1 {
+  background-color:#2F1313;
+  height:150%;
+}
+#projects {
+  margin-left:47%;
+  font-size: 250%;
+  color:#ffffff;
+}
+.imgs {
+  margin-left:6%;
+}
+#div2 {
+  background-color:#2F1313;
+}
+#span21 {
+  display:inline-block;
+  color:#ffffff;
+  margin-left:18%;
+  font-size: 125%;
+}
+#span22 {
+  display:inline-block;
+  color:#ffffff;
+  margin-left:40%;
+  font-size: 125%;
+}
+#span23 {
+  display:block;
+  margin-left:6%;
+
+}
+#span24 {
+  color:#ffffff;
+  margin-left:18%;
+  font-size: 125%;
+
+}
+#div3 {
+  background-color:#2F1313;
+  height:400px;
+  color:#ffffff;
+}
+#h1 {
+  margin-left:45%;
+}
+#pp {
+  margin-left: 43%;
+  font-size: 150%;
+  margin-top: 5%;
+}
+#pp2 {
+  margin-left: 40%;
+  font-size: 150%;
+}
+#sm {
+  margin-left:48%;
+  color:#ffffff;
+  font-size: 150%;
+  width:10%;
+  padding-bottom: 2%;
+}
+li :hover {
+  color:#13F70C;
+}
+ a :hover {
+  transform:scale(1.3,1.3)
+}
+img :hover {
+  transform:scale(1.1,1.1)
+}

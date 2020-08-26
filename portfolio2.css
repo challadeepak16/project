@@ -1,0 +1,108 @@
+/*http://css-snippets.com/drop-down-navigation */
+ul li {
+  display:inline-block;
+  float:right;
+  margin-right:4%;
+  margin-top:1%;
+  width:15%;
+  color:#ffffff;
+
+}
+  img {
+  width:40%;
+  display:block;
+  margin-left:20%;
+}
+
+#intro {
+  margin-left:10%;
+  font-size: 150%;
+  color:#ffffff;
+}
+#intro2 {
+  margin-left:08%;
+  font-size: 150%;
+  color:#ffffff;
+}
+#div1 {
+  background-color:#2F1313;
+  height:150%;
+}
+#projects {
+  margin-left:35%;
+  font-size: 250%;
+  color:#ffffff;
+}
+.imgs {
+  margin-left:6%;
+}
+#div2 {
+  background-color:#2F1313;
+}
+#span21 {
+  display:none;
+  color:#ffffff;
+  margin-left:18%;
+  font-size: 125%;
+}
+#span22 {
+  display:none;
+  color:#ffffff;
+  margin-left:40%;
+  font-size: 125%;
+}
+#span23 {
+  display:block;
+  margin-left:30%;
+  margin-top:3%;
+}
+#span24 {
+  color:#ffffff;
+  margin-left:33%;
+  font-size: 125%;
+  display:none;
+
+}
+#div3 {
+  background-color:#2F1313;
+  height:400px;
+  color:#ffffff;
+}
+#h1 {
+  margin-left:30%;
+}
+#pp {
+  margin-left:27%;
+  font-size: 150%;
+  margin-top: 5%;
+}
+#pp2 {
+  margin-left:23%;
+  font-size: 150%;
+}
+#sm {
+  margin-left:48%;
+  color:#ffffff;
+  font-size: 150%;
+  width:10%;
+  padding-bottom: 2%;
+}
+a :hover {
+  color:#13F70C;
+}
+ a :hover {
+  transform:scale(1.3,1.3)
+}
+img :hover {
+  transform:scale(1.1,1.1)
+}
+.imgs {
+  margin-left:30%;
+  margin-top:3%;
+}
+#mine {
+  width:30%;
+  margin-top:3%;
+  margin-left:10%;
+  border-radius:60%;
+}
