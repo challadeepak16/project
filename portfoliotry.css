@@ -7,6 +7,7 @@
 #about {
   background-color:#2F1313;
   padding-bottom:2%;
+	height:100%;
 }
 #intro {
   color:#ffffff;
@@ -53,9 +54,11 @@
   padding:19% 0%;
   color:#ffffff;
   clear:both;
+	height:100%;
 }
 #projects {
   background-color:#745752;
+	height:100%;
 }
 /*@media screen and (min-width:000px) {
   .cdropdown {
